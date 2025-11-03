@@ -22,9 +22,6 @@ Recognized for effective cross-functional collaboration and a consistent track r
 #### 🧩 Languages & Frameworks
 `Dart` • `Java` • `Android` • `Flutter`
 
-#### 🎨 UI/UX & Design
-`Material Design` • `Responsive Layouts` • `Custom Widgets` • `Theming` • `User Flow Optimization`
-
 #### 🔄 State Management
 `Bloc` • `GetX` • `Provider` • `Riverpod`
 
@@ -37,20 +34,8 @@ Recognized for effective cross-functional collaboration and a consistent track r
 #### 🗄️ Database Management
 `SQLite (SQFlite)` • `Hive` • `Drift` • `Isar`
 
-#### 🔧 Version Control & Collaboration
-`Git` • `GitHub` • `Code Review` • `CI/CD Familiarity`
-
-#### 📋 Agile & Project Management
-`Agile / Scrum Methodologies` • `Jira` • `Sprint Planning` • `Stand-ups`
-
 #### 🚀 Publishing & Deployment
-`Google Play Console` • `Apple App Store` • `Release Management` • `OTA Updates`
-
-#### 🧰 Tools
-`Android Studio` • `Visual Studio` • `IntelliJ` • `GitHub`
-
-#### 💡 Soft Skills
-`Problem Solving` • `Team Collaboration` • `Attention to Detail` • `Adaptability` • `Communication` • `English Fluency`
+`Google Play Console` • `Apple App Store` • `Release Management`
 
 ---
 
