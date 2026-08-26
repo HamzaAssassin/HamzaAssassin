@@ -57,13 +57,13 @@ Recognized for effective cross-functional collaboration and a consistent track r
 | **AUR Pets** | Pet care and accessories store | Flutter | [Play Store](https://play.google.com/store/apps/details?id=com.aur.pets.aur_pets) |
 | **Weight Loser** | Weight loss and health tracking app | Flutter (iOS) | [App Store](https://apps.apple.com/us/app/weightloser-weight-loss-coach/id6479640660) |
 | **KOTC (King of the Curve)** | Educational app for MCAT preparation | Flutter | [Play Store](https://play.google.com/store/search?q=kingofthecurve&c=apps) / [App Store](https://apps.apple.com/us/app/mcat-king-of-the-curve/id1534662918) |
-| **Escape Andalusi** | Puzzle-based adventure game | Flutter | [Play Store](https://play.google.com/store/apps/details?id=com.escapegame.app&pcampaignid=web_share) |
+| **Escape Andalusi** | Puzzle-based adventure game | Flutter | [Play Store](https://play.google.com/store/apps/details?id=com.escapegame.app&pcampaignid=web_share) / [App Store](https://apps.apple.com/pk/app/escape-andalusi/id6479458307) |
 | **Better Mood: Relax & Sleep** | Relaxation and sleep improvement app | Flutter | [App Store](https://apps.apple.com/us/app/better-mood-relax-sleep/id6581483848) |
 | **Diastolix: Blood Pressure App** | Health tracking and monitoring app | Flutter | [App Store](https://apps.apple.com/us/app/diastolix-blood-pressure-app/id6738598836) |
 | **PunchPad** | Productivity and task management app | Flutter | [App Store](https://apps.apple.com/pk/app/punchpad/id6752496094) / [Play Store](https://play.google.com/store/apps/details?id=com.punchpad.app&pcampaignid=web_share) |
 | **Save Crazy Deals** | Finding the best online deals, discounts, and shopping tips! | Flutter | [App Store](https://apps.apple.com/pk/app/save-crazy-deals/id6756123947) / [Play Store](https://play.google.com/store/apps/details?id=com.dealFinder.app) |
 | **In Shape Dates** | Find your workout partner, fitness soulmate, or take your health to the next level—all in one place | Flutter | [Play Store](https://play.google.com/store/apps/details?id=com.esolutions.inshapedates) |
-| **Loopify Buy & Sell** | Loopify makes buying and selling second-hand items in the UAE easy, affordable, and sustainable. | Flutter | [App Store](https://apps.apple.com/pk/app/loopify-buy-sell/id6753950738 ) / [Play Store](https://play.google.com/store/apps/details?id=com.sparkosol.loopify.app&pcampaignid=web_share) |
+| **Loopify Buy & Sell** | Loopify makes buying and selling second-hand items in the UAE easy, affordable, and sustainable. | Flutter | [App Store](https://apps.apple.com/pk/app/loopify-buy-sell/id6753950738) / [Play Store](https://play.google.com/store/apps/details?id=com.sparkosol.loopify.app&pcampaignid=web_share) |
 | **365 CEO Moves** | Get daily CEO guidance, actionable tasks, and the discipline to turn your goals into reality. | Flutter | [App Store](https://apps.apple.com/pk/app/365-ceo-moves/id6756650881 ) / [Play Store](https://play.google.com/store/apps/details?id=com.sparkosol.boss_app) |
 
 ---
