@@ -18,7 +18,7 @@
 ---
 
 ### 🚀 About Me
-Flutter Developer with over **3 years of experience** building high-performance, user-friendly mobile applications for **Android and iOS** platforms.  
+Flutter Developer with over **4+ years of experience** building high-performance, user-friendly mobile applications for **Android and iOS** platforms.  
 Proficient in **Dart**, **Firebase**, **RESTful APIs**, and advanced state management solutions including **Riverpod** and **Bloc**.  
 Adept at working in agile teams, delivering scalable and maintainable code with a strong emphasis on performance, architecture, and user experience.  
 Recognized for effective cross-functional collaboration and a consistent track record of delivering reliable solutions across diverse domains.
@@ -61,8 +61,10 @@ Recognized for effective cross-functional collaboration and a consistent track r
 | **Better Mood: Relax & Sleep** | Relaxation and sleep improvement app | Flutter | [App Store](https://apps.apple.com/us/app/better-mood-relax-sleep/id6581483848) |
 | **Diastolix: Blood Pressure App** | Health tracking and monitoring app | Flutter | [App Store](https://apps.apple.com/us/app/diastolix-blood-pressure-app/id6738598836) |
 | **PunchPad** | Productivity and task management app | Flutter | [App Store](https://apps.apple.com/pk/app/punchpad/id6752496094) / [Play Store](https://play.google.com/store/apps/details?id=com.punchpad.app&pcampaignid=web_share) |
-| **Save Crazy Deals** | Finding the best online deals, discounts, nd shopping tips! | Flutter | [App Store](https://apps.apple.com/pk/app/save-crazy-deals/id6756123947) / [Play Store](https://play.google.com/store/apps/details?id=com.dealFinder.app) |
+| **Save Crazy Deals** | Finding the best online deals, discounts, and shopping tips! | Flutter | [App Store](https://apps.apple.com/pk/app/save-crazy-deals/id6756123947) / [Play Store](https://play.google.com/store/apps/details?id=com.dealFinder.app) |
 | **In Shape Dates** | Find your workout partner, fitness soulmate, or take your health to the next level—all in one place | Flutter | [Play Store](https://play.google.com/store/apps/details?id=com.esolutions.inshapedates) |
+| **Loopify Buy & Sell** | Loopify makes buying and selling second-hand items in the UAE easy, affordable, and sustainable. | Flutter | [App Store](https://apps.apple.com/pk/app/loopify-buy-sell/id6753950738 ) / [Play Store](https://play.google.com/store/apps/details?id=com.sparkosol.loopify.app&pcampaignid=web_share) |
+| **365 CEO Moves** | Get daily CEO guidance, actionable tasks, and the discipline to turn your goals into reality. | Flutter | [App Store](https://apps.apple.com/pk/app/365-ceo-moves/id6756650881 ) / [Play Store](https://play.google.com/store/apps/details?id=com.sparkosol.boss_app) |
 
 ---
 
